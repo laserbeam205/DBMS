@@ -1,0 +1,22 @@
+{
+  "name": "dbms",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "faker": "^6.6.6",
+    "mongoose": "^8.9.2",
+    "natural": "^8.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
